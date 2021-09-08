@@ -1,0 +1,16 @@
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\bin\Debug\net5.0\CreateStruct.Pyrshiev.exe
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\bin\Debug\net5.0\CreateStruct.Pyrshiev.deps.json
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\bin\Debug\net5.0\CreateStruct.Pyrshiev.runtimeconfig.json
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\bin\Debug\net5.0\CreateStruct.Pyrshiev.runtimeconfig.dev.json
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\bin\Debug\net5.0\CreateStruct.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\bin\Debug\net5.0\ref\CreateStruct.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\bin\Debug\net5.0\CreateStruct.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\obj\Debug\net5.0\CreateStruct.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\obj\Debug\net5.0\CreateStruct.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\obj\Debug\net5.0\CreateStruct.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\obj\Debug\net5.0\CreateStruct.Pyrshiev.AssemblyInfo.cs
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\obj\Debug\net5.0\CreateStruct.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\obj\Debug\net5.0\CreateStruct.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\obj\Debug\net5.0\ref\CreateStruct.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\obj\Debug\net5.0\CreateStruct.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\CreateStruct.Pyrshiev\CreateStruct.Pyrshiev\obj\Debug\net5.0\CreateStruct.Pyrshiev.genruntimeconfig.cache
