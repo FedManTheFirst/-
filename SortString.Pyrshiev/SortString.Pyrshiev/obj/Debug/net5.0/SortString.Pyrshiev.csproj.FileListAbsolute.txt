@@ -1,0 +1,16 @@
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\bin\Debug\net5.0\SortString.Pyrshiev.exe
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\bin\Debug\net5.0\SortString.Pyrshiev.deps.json
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\bin\Debug\net5.0\SortString.Pyrshiev.runtimeconfig.json
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\bin\Debug\net5.0\SortString.Pyrshiev.runtimeconfig.dev.json
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\bin\Debug\net5.0\SortString.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\bin\Debug\net5.0\ref\SortString.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\bin\Debug\net5.0\SortString.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\obj\Debug\net5.0\SortString.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\obj\Debug\net5.0\SortString.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\obj\Debug\net5.0\SortString.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\obj\Debug\net5.0\SortString.Pyrshiev.AssemblyInfo.cs
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\obj\Debug\net5.0\SortString.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\obj\Debug\net5.0\SortString.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\obj\Debug\net5.0\ref\SortString.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\obj\Debug\net5.0\SortString.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\SortString.Pyrshiev\SortString.Pyrshiev\obj\Debug\net5.0\SortString.Pyrshiev.genruntimeconfig.cache
