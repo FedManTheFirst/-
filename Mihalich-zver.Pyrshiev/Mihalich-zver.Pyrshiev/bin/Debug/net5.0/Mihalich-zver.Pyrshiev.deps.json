@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Mihalich-zver.Pyrshiev/1.0.0": {
+        "runtime": {
+          "Mihalich-zver.Pyrshiev.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mihalich-zver.Pyrshiev/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
