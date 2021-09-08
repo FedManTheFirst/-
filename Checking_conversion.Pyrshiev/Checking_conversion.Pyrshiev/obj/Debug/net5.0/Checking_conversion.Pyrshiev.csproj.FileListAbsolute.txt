@@ -1,0 +1,16 @@
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\obj\Debug\net5.0\Checking_conversion.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\obj\Debug\net5.0\Checking_conversion.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\obj\Debug\net5.0\Checking_conversion.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\obj\Debug\net5.0\Checking_conversion.Pyrshiev.AssemblyInfo.cs
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\obj\Debug\net5.0\Checking_conversion.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\bin\Debug\net5.0\Checking_conversion.Pyrshiev.exe
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\bin\Debug\net5.0\Checking_conversion.Pyrshiev.deps.json
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\bin\Debug\net5.0\Checking_conversion.Pyrshiev.runtimeconfig.json
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\bin\Debug\net5.0\Checking_conversion.Pyrshiev.runtimeconfig.dev.json
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\bin\Debug\net5.0\Checking_conversion.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\bin\Debug\net5.0\ref\Checking_conversion.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\bin\Debug\net5.0\Checking_conversion.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\obj\Debug\net5.0\Checking_conversion.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\obj\Debug\net5.0\ref\Checking_conversion.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\obj\Debug\net5.0\Checking_conversion.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\Checking_conversion.Pyrshiev\Checking_conversion.Pyrshiev\obj\Debug\net5.0\Checking_conversion.Pyrshiev.genruntimeconfig.cache
