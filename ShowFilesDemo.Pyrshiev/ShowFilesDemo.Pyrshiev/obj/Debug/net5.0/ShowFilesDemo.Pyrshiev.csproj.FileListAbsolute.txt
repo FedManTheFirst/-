@@ -1,0 +1,16 @@
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\obj\Debug\net5.0\ShowFilesDemo.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\obj\Debug\net5.0\ShowFilesDemo.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\obj\Debug\net5.0\ShowFilesDemo.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\obj\Debug\net5.0\ShowFilesDemo.Pyrshiev.AssemblyInfo.cs
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\obj\Debug\net5.0\ShowFilesDemo.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\bin\Debug\net5.0\ShowFilesDemo.Pyrshiev.exe
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\bin\Debug\net5.0\ShowFilesDemo.Pyrshiev.deps.json
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\bin\Debug\net5.0\ShowFilesDemo.Pyrshiev.runtimeconfig.json
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\bin\Debug\net5.0\ShowFilesDemo.Pyrshiev.runtimeconfig.dev.json
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\bin\Debug\net5.0\ShowFilesDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\bin\Debug\net5.0\ref\ShowFilesDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\bin\Debug\net5.0\ShowFilesDemo.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\obj\Debug\net5.0\ShowFilesDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\obj\Debug\net5.0\ref\ShowFilesDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\obj\Debug\net5.0\ShowFilesDemo.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\ShowFilesDemo.Pyrshiev\ShowFilesDemo.Pyrshiev\obj\Debug\net5.0\ShowFilesDemo.Pyrshiev.genruntimeconfig.cache
