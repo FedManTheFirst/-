@@ -1,0 +1,16 @@
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\bin\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.exe
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\bin\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.deps.json
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\bin\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.runtimeconfig.json
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\bin\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.runtimeconfig.dev.json
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\bin\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\bin\Debug\net5.0\ref\IsolatedStorageDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\bin\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\obj\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\obj\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\obj\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\obj\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.AssemblyInfo.cs
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\obj\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\obj\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\obj\Debug\net5.0\ref\IsolatedStorageDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\obj\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\IsolatedStorageDemo.Pyrshiev\IsolatedStorageDemo.Pyrshiev\obj\Debug\net5.0\IsolatedStorageDemo.Pyrshiev.genruntimeconfig.cache
