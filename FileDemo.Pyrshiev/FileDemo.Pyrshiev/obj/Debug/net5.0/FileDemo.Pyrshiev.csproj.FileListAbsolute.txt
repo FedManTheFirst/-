@@ -1,0 +1,15 @@
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\bin\Debug\net5.0\FileDemo.Pyrshiev.exe
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\bin\Debug\net5.0\FileDemo.Pyrshiev.deps.json
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\bin\Debug\net5.0\FileDemo.Pyrshiev.runtimeconfig.json
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\bin\Debug\net5.0\FileDemo.Pyrshiev.runtimeconfig.dev.json
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\bin\Debug\net5.0\FileDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\bin\Debug\net5.0\ref\FileDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\bin\Debug\net5.0\FileDemo.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\obj\Debug\net5.0\FileDemo.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\obj\Debug\net5.0\FileDemo.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\obj\Debug\net5.0\FileDemo.Pyrshiev.AssemblyInfo.cs
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\obj\Debug\net5.0\FileDemo.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\obj\Debug\net5.0\FileDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\obj\Debug\net5.0\ref\FileDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\obj\Debug\net5.0\FileDemo.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\FileDemo.Pyrshiev\FileDemo.Pyrshiev\obj\Debug\net5.0\FileDemo.Pyrshiev.genruntimeconfig.cache
