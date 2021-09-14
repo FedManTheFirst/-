@@ -1,0 +1,16 @@
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\bin\Debug\net5.0\CompressionDemo.Pyrshiev.exe
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\bin\Debug\net5.0\CompressionDemo.Pyrshiev.deps.json
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\bin\Debug\net5.0\CompressionDemo.Pyrshiev.runtimeconfig.json
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\bin\Debug\net5.0\CompressionDemo.Pyrshiev.runtimeconfig.dev.json
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\bin\Debug\net5.0\CompressionDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\bin\Debug\net5.0\ref\CompressionDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\bin\Debug\net5.0\CompressionDemo.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\obj\Debug\net5.0\CompressionDemo.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\obj\Debug\net5.0\CompressionDemo.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\obj\Debug\net5.0\CompressionDemo.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\obj\Debug\net5.0\CompressionDemo.Pyrshiev.AssemblyInfo.cs
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\obj\Debug\net5.0\CompressionDemo.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\obj\Debug\net5.0\CompressionDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\obj\Debug\net5.0\ref\CompressionDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\obj\Debug\net5.0\CompressionDemo.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\CompressionDemo.Pyrshiev\CompressionDemo.Pyrshiev\obj\Debug\net5.0\CompressionDemo.Pyrshiev.genruntimeconfig.cache
