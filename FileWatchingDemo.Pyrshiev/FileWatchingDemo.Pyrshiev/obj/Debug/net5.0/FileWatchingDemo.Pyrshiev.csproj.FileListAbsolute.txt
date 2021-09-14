@@ -1,0 +1,16 @@
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\bin\Debug\net5.0\FileWatchingDemo.Pyrshiev.exe
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\bin\Debug\net5.0\FileWatchingDemo.Pyrshiev.deps.json
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\bin\Debug\net5.0\FileWatchingDemo.Pyrshiev.runtimeconfig.json
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\bin\Debug\net5.0\FileWatchingDemo.Pyrshiev.runtimeconfig.dev.json
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\bin\Debug\net5.0\FileWatchingDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\bin\Debug\net5.0\ref\FileWatchingDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\bin\Debug\net5.0\FileWatchingDemo.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\obj\Debug\net5.0\FileWatchingDemo.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\obj\Debug\net5.0\FileWatchingDemo.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\obj\Debug\net5.0\FileWatchingDemo.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\obj\Debug\net5.0\FileWatchingDemo.Pyrshiev.AssemblyInfo.cs
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\obj\Debug\net5.0\FileWatchingDemo.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\obj\Debug\net5.0\FileWatchingDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\obj\Debug\net5.0\ref\FileWatchingDemo.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\obj\Debug\net5.0\FileWatchingDemo.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\FileWatchingDemo.Pyrshiev\FileWatchingDemo.Pyrshiev\obj\Debug\net5.0\FileWatchingDemo.Pyrshiev.genruntimeconfig.cache
