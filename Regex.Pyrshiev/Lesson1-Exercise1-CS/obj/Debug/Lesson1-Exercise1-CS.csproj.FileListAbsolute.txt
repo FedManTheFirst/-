@@ -1,0 +1,6 @@
+C:\Users\fpyrs\Desktop\Regex.Pyrshiev\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.csproj.AssemblyReference.cache
+C:\Users\fpyrs\Desktop\Regex.Pyrshiev\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\Desktop\Regex.Pyrshiev\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.exe
+C:\Users\fpyrs\Desktop\Regex.Pyrshiev\Lesson1-Exercise1-CS\bin\Debug\Lesson1-Exercise1-CS.pdb
+C:\Users\fpyrs\Desktop\Regex.Pyrshiev\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.exe
+C:\Users\fpyrs\Desktop\Regex.Pyrshiev\Lesson1-Exercise1-CS\obj\Debug\Lesson1-Exercise1-CS.pdb
