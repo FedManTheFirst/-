@@ -1,0 +1,16 @@
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\bin\Debug\net5.0\Encode.Pyrshiev.exe
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\bin\Debug\net5.0\Encode.Pyrshiev.deps.json
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\bin\Debug\net5.0\Encode.Pyrshiev.runtimeconfig.json
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\bin\Debug\net5.0\Encode.Pyrshiev.runtimeconfig.dev.json
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\bin\Debug\net5.0\Encode.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\bin\Debug\net5.0\ref\Encode.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\bin\Debug\net5.0\Encode.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\obj\Debug\net5.0\Encode.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\obj\Debug\net5.0\Encode.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\obj\Debug\net5.0\Encode.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\obj\Debug\net5.0\Encode.Pyrshiev.AssemblyInfo.cs
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\obj\Debug\net5.0\Encode.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\obj\Debug\net5.0\Encode.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\obj\Debug\net5.0\ref\Encode.Pyrshiev.dll
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\obj\Debug\net5.0\Encode.Pyrshiev.pdb
+C:\Users\fpyrs\source\repos\Encode.Pyrshiev\Encode.Pyrshiev\obj\Debug\net5.0\Encode.Pyrshiev.genruntimeconfig.cache

@@ -1,0 +1,7 @@
++AFs-boot loader+AF0-
+timeout+AD0-30
+default+AD0-multi(0)disk(0)rdisk(0)partition(3)+AFw-WINDOWS
++AFs-operating systems+AF0-
+multi(0)disk(0)rdisk(0)partition(3)+AFw-WINDOWS+AD0AIg-Windows Server 2003, Enterprise RU+ACI- /noexecute+AD0-optout /fastdetect
+multi(0)disk(0)rdisk(0)partition(2)+AFw-WINDOWS+AD0AIg-Microsoft Windows XP Professional RU+ACI- /noexecute+AD0-optin /fastdetect
+C:+AFwAPQAi-Microsoft Windows+ACI-
