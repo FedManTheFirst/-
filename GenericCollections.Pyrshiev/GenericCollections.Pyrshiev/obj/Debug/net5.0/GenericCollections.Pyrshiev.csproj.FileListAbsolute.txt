@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\bin\Debug\net5.0\GenericCollections.Pyrshiev.exe
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\bin\Debug\net5.0\GenericCollections.Pyrshiev.deps.json
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\bin\Debug\net5.0\GenericCollections.Pyrshiev.runtimeconfig.json
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\bin\Debug\net5.0\GenericCollections.Pyrshiev.runtimeconfig.dev.json
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\bin\Debug\net5.0\GenericCollections.Pyrshiev.dll
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\bin\Debug\net5.0\ref\GenericCollections.Pyrshiev.dll
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\bin\Debug\net5.0\GenericCollections.Pyrshiev.pdb
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\obj\Debug\net5.0\GenericCollections.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\obj\Debug\net5.0\GenericCollections.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\obj\Debug\net5.0\GenericCollections.Pyrshiev.AssemblyInfo.cs
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\obj\Debug\net5.0\GenericCollections.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\obj\Debug\net5.0\GenericCollections.Pyrshiev.dll
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\obj\Debug\net5.0\ref\GenericCollections.Pyrshiev.dll
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\obj\Debug\net5.0\GenericCollections.Pyrshiev.pdb
+C:\Users\student\source\repos\GenericCollections.Pyrshiev\GenericCollections.Pyrshiev\obj\Debug\net5.0\GenericCollections.Pyrshiev.genruntimeconfig.cache
