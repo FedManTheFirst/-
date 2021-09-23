@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\bin\Debug\net5.0\DictionaryCollection.Pyrshiev.exe
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\bin\Debug\net5.0\DictionaryCollection.Pyrshiev.deps.json
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\bin\Debug\net5.0\DictionaryCollection.Pyrshiev.runtimeconfig.json
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\bin\Debug\net5.0\DictionaryCollection.Pyrshiev.runtimeconfig.dev.json
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\bin\Debug\net5.0\DictionaryCollection.Pyrshiev.dll
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\bin\Debug\net5.0\ref\DictionaryCollection.Pyrshiev.dll
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\bin\Debug\net5.0\DictionaryCollection.Pyrshiev.pdb
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\obj\Debug\net5.0\DictionaryCollection.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\obj\Debug\net5.0\DictionaryCollection.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\obj\Debug\net5.0\DictionaryCollection.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\obj\Debug\net5.0\DictionaryCollection.Pyrshiev.AssemblyInfo.cs
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\obj\Debug\net5.0\DictionaryCollection.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\obj\Debug\net5.0\DictionaryCollection.Pyrshiev.dll
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\obj\Debug\net5.0\ref\DictionaryCollection.Pyrshiev.dll
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\obj\Debug\net5.0\DictionaryCollection.Pyrshiev.pdb
+C:\Users\student\source\repos\DictionaryCollection.Pyrshiev\DictionaryCollection.Pyrshiev\obj\Debug\net5.0\DictionaryCollection.Pyrshiev.genruntimeconfig.cache
