@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\bin\Debug\net5.0\LookupCollection.Pyrshiev.exe
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\bin\Debug\net5.0\LookupCollection.Pyrshiev.deps.json
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\bin\Debug\net5.0\LookupCollection.Pyrshiev.runtimeconfig.json
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\bin\Debug\net5.0\LookupCollection.Pyrshiev.runtimeconfig.dev.json
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\bin\Debug\net5.0\LookupCollection.Pyrshiev.dll
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\bin\Debug\net5.0\ref\LookupCollection.Pyrshiev.dll
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\bin\Debug\net5.0\LookupCollection.Pyrshiev.pdb
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\obj\Debug\net5.0\LookupCollection.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\obj\Debug\net5.0\LookupCollection.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\obj\Debug\net5.0\LookupCollection.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\obj\Debug\net5.0\LookupCollection.Pyrshiev.AssemblyInfo.cs
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\obj\Debug\net5.0\LookupCollection.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\obj\Debug\net5.0\LookupCollection.Pyrshiev.dll
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\obj\Debug\net5.0\ref\LookupCollection.Pyrshiev.dll
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\obj\Debug\net5.0\LookupCollection.Pyrshiev.pdb
+C:\Users\student\source\repos\LookupCollection.Pyrshiev\LookupCollection.Pyrshiev\obj\Debug\net5.0\LookupCollection.Pyrshiev.genruntimeconfig.cache
