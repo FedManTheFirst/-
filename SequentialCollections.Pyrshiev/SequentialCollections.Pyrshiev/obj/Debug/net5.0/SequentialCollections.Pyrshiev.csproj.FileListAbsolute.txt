@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\obj\Debug\net5.0\SequentialCollections.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\obj\Debug\net5.0\SequentialCollections.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\obj\Debug\net5.0\SequentialCollections.Pyrshiev.AssemblyInfo.cs
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\obj\Debug\net5.0\SequentialCollections.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\bin\Debug\net5.0\SequentialCollections.Pyrshiev.exe
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\bin\Debug\net5.0\SequentialCollections.Pyrshiev.deps.json
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\bin\Debug\net5.0\SequentialCollections.Pyrshiev.runtimeconfig.json
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\bin\Debug\net5.0\SequentialCollections.Pyrshiev.runtimeconfig.dev.json
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\bin\Debug\net5.0\SequentialCollections.Pyrshiev.dll
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\bin\Debug\net5.0\ref\SequentialCollections.Pyrshiev.dll
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\bin\Debug\net5.0\SequentialCollections.Pyrshiev.pdb
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\obj\Debug\net5.0\SequentialCollections.Pyrshiev.dll
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\obj\Debug\net5.0\ref\SequentialCollections.Pyrshiev.dll
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\obj\Debug\net5.0\SequentialCollections.Pyrshiev.pdb
+C:\Users\student\source\repos\SequentialCollections.Pyrshiev\SequentialCollections.Pyrshiev\obj\Debug\net5.0\SequentialCollections.Pyrshiev.genruntimeconfig.cache
