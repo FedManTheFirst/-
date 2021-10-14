@@ -1,0 +1,9 @@
+C:\Users\fpyrs\Desktop\Lesson1-Exercise1-PieChart-Completed-CS\PieChart\bin\Debug\PieChart.exe
+C:\Users\fpyrs\Desktop\Lesson1-Exercise1-PieChart-Completed-CS\PieChart\bin\Debug\PieChart.pdb
+C:\Users\fpyrs\Desktop\Lesson1-Exercise1-PieChart-Completed-CS\PieChart\obj\Debug\PieChart.csproj.AssemblyReference.cache
+C:\Users\fpyrs\Desktop\Lesson1-Exercise1-PieChart-Completed-CS\PieChart\obj\Debug\PieChart.Form1.resources
+C:\Users\fpyrs\Desktop\Lesson1-Exercise1-PieChart-Completed-CS\PieChart\obj\Debug\PieChart.Properties.Resources.resources
+C:\Users\fpyrs\Desktop\Lesson1-Exercise1-PieChart-Completed-CS\PieChart\obj\Debug\PieChart.csproj.GenerateResource.cache
+C:\Users\fpyrs\Desktop\Lesson1-Exercise1-PieChart-Completed-CS\PieChart\obj\Debug\PieChart.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\Desktop\Lesson1-Exercise1-PieChart-Completed-CS\PieChart\obj\Debug\PieChart.exe
+C:\Users\fpyrs\Desktop\Lesson1-Exercise1-PieChart-Completed-CS\PieChart\obj\Debug\PieChart.pdb
