@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\bin\Debug\net5.0\SingleInstance.Pyrshiev.exe
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\bin\Debug\net5.0\SingleInstance.Pyrshiev.deps.json
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\bin\Debug\net5.0\SingleInstance.Pyrshiev.runtimeconfig.json
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\bin\Debug\net5.0\SingleInstance.Pyrshiev.runtimeconfig.dev.json
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\bin\Debug\net5.0\SingleInstance.Pyrshiev.dll
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\bin\Debug\net5.0\ref\SingleInstance.Pyrshiev.dll
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\bin\Debug\net5.0\SingleInstance.Pyrshiev.pdb
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\obj\Debug\net5.0\SingleInstance.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\obj\Debug\net5.0\SingleInstance.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\obj\Debug\net5.0\SingleInstance.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\obj\Debug\net5.0\SingleInstance.Pyrshiev.AssemblyInfo.cs
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\obj\Debug\net5.0\SingleInstance.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\obj\Debug\net5.0\SingleInstance.Pyrshiev.dll
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\obj\Debug\net5.0\ref\SingleInstance.Pyrshiev.dll
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\obj\Debug\net5.0\SingleInstance.Pyrshiev.pdb
+C:\Users\student\source\repos\SingleInstance.Pyrshiev\SingleInstance.Pyrshiev\obj\Debug\net5.0\SingleInstance.Pyrshiev.genruntimeconfig.cache
