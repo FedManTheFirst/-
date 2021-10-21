@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\bin\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.exe
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\bin\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.deps.json
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\bin\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.runtimeconfig.json
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\bin\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.runtimeconfig.dev.json
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\bin\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.dll
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\bin\Debug\net5.0\ref\SimpleThreadingDemo.Pyrshiev.dll
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\bin\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.pdb
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\obj\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\obj\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\obj\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\obj\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.AssemblyInfo.cs
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\obj\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\obj\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.dll
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\obj\Debug\net5.0\ref\SimpleThreadingDemo.Pyrshiev.dll
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\obj\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.pdb
+C:\Users\student\source\repos\SimpleThreadingDemo.Pyrshiev\SimpleThreadingDemo.Pyrshiev\obj\Debug\net5.0\SimpleThreadingDemo.Pyrshiev.genruntimeconfig.cache
