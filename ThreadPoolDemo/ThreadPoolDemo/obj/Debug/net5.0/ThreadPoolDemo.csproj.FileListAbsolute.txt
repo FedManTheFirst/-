@@ -1,0 +1,16 @@
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\net5.0\ThreadPoolDemo.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\net5.0\ThreadPoolDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\net5.0\ThreadPoolDemo.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\net5.0\ThreadPoolDemo.AssemblyInfo.cs
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\net5.0\ThreadPoolDemo.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\net5.0\ThreadPoolDemo.exe
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\net5.0\ThreadPoolDemo.deps.json
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\net5.0\ThreadPoolDemo.runtimeconfig.json
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\net5.0\ThreadPoolDemo.runtimeconfig.dev.json
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\net5.0\ThreadPoolDemo.dll
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\net5.0\ref\ThreadPoolDemo.dll
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\net5.0\ThreadPoolDemo.pdb
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\net5.0\ThreadPoolDemo.dll
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\net5.0\ref\ThreadPoolDemo.dll
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\net5.0\ThreadPoolDemo.pdb
+C:\Users\student\source\repos\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\net5.0\ThreadPoolDemo.genruntimeconfig.cache
