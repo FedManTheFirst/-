@@ -1,0 +1,10 @@
+C:\Users\fpyrs\Desktop\Практика 11\1\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\bin\Debug\second_application.exe
+C:\Users\fpyrs\Desktop\Практика 11\1\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\bin\Debug\second_application.pdb
+C:\Users\fpyrs\Desktop\Практика 11\1\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.csproj.AssemblyReference.cache
+C:\Users\fpyrs\Desktop\Практика 11\1\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.Form1.resources
+C:\Users\fpyrs\Desktop\Практика 11\1\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.Preview.resources
+C:\Users\fpyrs\Desktop\Практика 11\1\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.Properties.Resources.resources
+C:\Users\fpyrs\Desktop\Практика 11\1\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.csproj.GenerateResource.cache
+C:\Users\fpyrs\Desktop\Практика 11\1\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\Desktop\Практика 11\1\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.exe
+C:\Users\fpyrs\Desktop\Практика 11\1\chapter-2.2-Ishodnie-kodi-sozdaniya-menu-toolbar-zagryzki-izobrageniy-v-c-sharp\second_application\obj\Debug\second_application.pdb
