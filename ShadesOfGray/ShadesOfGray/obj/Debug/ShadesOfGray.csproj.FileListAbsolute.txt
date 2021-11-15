@@ -1,0 +1,28 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\vscode\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.pdb
+C:\Users\Игорь\Desktop\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.exe.config
+C:\Users\Игорь\Desktop\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.exe
+C:\Users\Игорь\Desktop\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.pdb
+C:\Users\Игорь\Desktop\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.exe
+C:\Users\Игорь\Desktop\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.pdb
+C:\Users\Игорь\Desktop\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.Form1.resources
+C:\Users\Игорь\Desktop\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.Properties.Resources.resources
+C:\Users\Игорь\Desktop\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.csproj.GenerateResource.Cache
+C:\Users\fpyrs\Desktop\Практика 11\2\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.exe.config
+C:\Users\fpyrs\Desktop\Практика 11\2\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.exe
+C:\Users\fpyrs\Desktop\Практика 11\2\ShadesOfGray\ShadesOfGray\bin\Debug\ShadesOfGray.pdb
+C:\Users\fpyrs\Desktop\Практика 11\2\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.csproj.AssemblyReference.cache
+C:\Users\fpyrs\Desktop\Практика 11\2\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.Form1.resources
+C:\Users\fpyrs\Desktop\Практика 11\2\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.Properties.Resources.resources
+C:\Users\fpyrs\Desktop\Практика 11\2\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.csproj.GenerateResource.cache
+C:\Users\fpyrs\Desktop\Практика 11\2\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.csproj.CoreCompileInputs.cache
+C:\Users\fpyrs\Desktop\Практика 11\2\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.exe
+C:\Users\fpyrs\Desktop\Практика 11\2\ShadesOfGray\ShadesOfGray\obj\Debug\ShadesOfGray.pdb
